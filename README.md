@@ -5,5 +5,3 @@ For this project the main objective was to relate how the worldwide happiness in
 ## Conclusion
 
 Good correlation between happiness index and economic freedom index
-
-Self 
