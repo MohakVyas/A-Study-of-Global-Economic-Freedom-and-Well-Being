@@ -1,0 +1,1 @@
+# A-Study-of-Global-Economic-Freedom-and-Well-Being
